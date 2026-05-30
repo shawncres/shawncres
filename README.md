@@ -29,11 +29,12 @@ I'm passionate about creating practical AI tools that combine **local LLMs**, **
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### 📌 Featured Projects
-*(Will be updated as I upload new work)*
 
-- [AI Desktop Agent with Vision & Memory](https://github.com/shawncres/...) *(coming soon)*
+- **[AI Jobs Infographic 2026](https://github.com/shawncres/ai-jobs-infographic-2026)** — Interactive infographic exploring 7 emerging high-demand AI roles with salaries, skills, and market data (self-contained HTML + poster)
 - [PythonSeleniumAutomation](https://github.com/shawncres/PythonSeleniumAutomation) — AI-enhanced test automation framework
 - [DataFrameAnalysis](https://github.com/shawncres/DataFrameAnalysis) — Intelligent data pipelines
+
+*(More projects coming soon)*
 
 ---
 
